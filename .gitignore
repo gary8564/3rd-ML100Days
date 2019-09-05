@@ -10,3 +10,4 @@ homework/data/example.pkl
 homework/data/example.txt
 homework/data/example01.json
 homework/data/example02.json
+*.gz
